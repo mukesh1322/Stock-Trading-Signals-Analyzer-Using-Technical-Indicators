@@ -40,5 +40,3 @@ Follow these steps to install and run the project:
 Contributions are encouraged! If you have ideas for enhancements or wish to introduce new features, feel free to open a pull request.
 
 ---
-
-This version maintains the meaning of your original text while presenting it in a fresh format.
